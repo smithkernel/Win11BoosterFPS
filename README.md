@@ -41,7 +41,7 @@
 ***
 
 
-##### <p align="middle"> ❌ No Support Windows 10 21H1 - 21H2 , Windows 11 , Windows 8.1 , Windows 7 
+##### <p align="middle"> ❌ No Support  Windows 11 , Windows 8.1 , Windows 7 
 ##### <p align="middle"> ❌ It will delete the Windows Store. If you are using the Windows Store, do not use folder 1.
 ##### <p align="middle"> ❌ If you're using Xbox, don't use Folder 13.
 ##### <p align="middle"> ❌ Every Scripts should be studied before use.
