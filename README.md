@@ -27,7 +27,7 @@
 ###### 05 - PowerRun (Needed sometimes when you have to use advanced Run File)
 ###### 06 - Priority Game (Set the game to the highest priority)
 ###### 07 - Disable SmartGreen
-###### 08 - Optimizer 9.3 (can follow his [Github](https://github.com/hellzerg/optimizer))
+###### 08 - Optimizer 13.6 (can follow his [Github](https://github.com/hellzerg/optimizer))
 ###### 09 - Google Chrome
 ###### 10 - Program (Driver Booster + KEY , IDM Cracks , Photoshop CS6)
 ###### 11 - Regedit FPS (You can right click and Edit to see what adjustments are made. But it will increase your FPS +200 a lot)
