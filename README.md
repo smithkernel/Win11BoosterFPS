@@ -17,7 +17,7 @@
  
   
 ### 💬 DISCORD ・ [HEX PROJECT](https://discord.gg/MBTkVcJefp)  
-
+ 
 ***
 
 ###### 00 - Remove Blaotware (Remove bloatware which is unnecessary for Windows 10)
