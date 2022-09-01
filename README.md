@@ -50,7 +50,7 @@
 ##### <p align="middle"> ❌ Every Scripts should be studied before use.
 ##### <p align="middle"> ❌ Regedit which one is used and it shows red. Let you use it through PowerRUN / Nsudo.
 
-***
+*** 
   
 ###### <p align="middle"> Google Docs Advance Twaeks Wnidows 10 Guild 
   
