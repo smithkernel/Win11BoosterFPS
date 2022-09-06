@@ -15,7 +15,7 @@
 #### 📌 If you have problems or encounter problems, you can contact Discord : Speedy#8465
  
   
-### 💬 DISCORD ・ [HEX PROJECT](https://discord.gg/MBTkVcJefp)  
+### 💬 DISCORD ・ [CLOUD PROJECT](https://discord.gg/MBTkVcJefp)  
  
 ***
 
