@@ -1,21 +1,17 @@
 
-## <p align="middle"> Windows 10 FPS Booster 2022 Use at your own risk.
+## <p align="middle"> Windows 10 FPS Booster 
         
 
-### <p align="middle"> DOWNLOAD : [Click Here](https://github.com/Speedyreal/Windows10BoosterFPS/releases/download/Windows10/Windows10BoosterFPS.rar)
+### <p align="middle"> DOWNLOAD : [Release](https://github.com/Speedyreal/Windows10BoosterFPS/releases/download/Windows10/Windows10BoosterFPS.rar)
   
-  ##### <p align="middle"> Everything I leave all credit to who made it. I didn't steal him. 💡
+ ### 💡 Do this before Use
+ - You must backup Windows before using it to prevent the risk.
+ - Use it at your own risk. but read the information in the file to be sure how it works
  
-##### Hello, this is the scripts I use to customize after windows install, it makes game play smoothly.
-
-##### Every Scripts won't crash your PC , Which one you don't understand can be searched using Google.
-
-##### I recommend to enable Game Mode in Settings, it will make FPS more stable and better.
-
-#### 📌 If you have problems or encounter problems, you can contact Discord : Speedy#8465
- 
+ ### 📁 Information
+ - I've written all the information about what the file does. So you have to read the good information.
   
-### 💬 DISCORD ・ [CLOUD PROJECT](https://discord.gg/MBTkVcJefp)  
+#### 💬 DISCORD ・ [CLOUD PROJECT](https://discord.gg/MBTkVcJefp)  
  
 *** 
 
