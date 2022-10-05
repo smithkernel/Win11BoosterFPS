@@ -67,4 +67,6 @@
    
 
 <h2 align="center"> Copyright © 2021 - 2022
+
+##### <p align="center">  FNOBERZ OFFICIAL / JOIN DISCORD [CLOUD PROJECT](https://discord.gg/JUwFCGHbV4)
     
