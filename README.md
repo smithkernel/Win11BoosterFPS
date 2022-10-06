@@ -5,13 +5,14 @@
 ### <p align="middle"> DOWNLOAD : [Release](https://github.com/Speedyreal/Windows10BoosterFPS/releases/download/Windows10/Windows10BoosterFPS.rar)
   
  ### 💡 Do this before Use
+ - Scroll down to the bottom
  - You must backup Windows before using it to prevent the risk.
  - Use it at your own risk. but read the information in the file to be sure how it works
  
  ### 📁 Information
  - I've written all the information about what the file does. So you have to read the good information.
   
-#### 💬 DISCORD ・ [CLOUD PROJECT](https://discord.gg/MBTkVcJefp)  
+
  
 *** 
 
@@ -62,11 +63,38 @@
   
  #### <p align="middle"> [AMD Debloat Driver + Booster FPS](https://docs.google.com/document/d/1Vd5WKWhm77sG8o9xBoSNRuAWRTavLqynJ7aQhVrsa8Y/edit#heading=h.64v6f9pb21bn)
  #### <p align="middle"> [Nvdia Booster FPS + Debloat](https://discord.gg/MVRdECQAPJ)
+  
    
- ****
    
+   ---
+
+  <p align="center">
+    <a href="https://discord.com/users/943374631644045363">
+        <img title="Fnoberz server discord" alt="Fnoberz's discord" src="https://discord.c99.nl/widget/theme-4/943374631644045363.png"/>
+    </a>
+</p> 
+ 
+### 💬 DISCORD  [Clound Official](https://discord.gg/MBTkVcJefp) 
+
+### 📗 Private Project 
+` 🟢 SOURCE CODE , PRIVATE CHEAT , SPOOFER , OTHER JOIN DISCORD 🟢`
+
+- **Additional** questions For the Product [Information](https://github.com/Cloud-Official/Product) / [Join Discord](https://discord.gg/MBTkVcJefp) 
+- **Legit and Undetectable** because we update it all the time.
+
+
+### 🛑 Warranty Product
+
+- **Support** 24\7 + Update free lifetime
+- **If banned = Refund + Spoofer free**
+
+A website that I created to introduce myself from start to finish. hope you like it [Fnoberz.com](https://fnoberz.com/)
+
+---
 
 <h2 align="center"> Copyright © 2021 - 2022
 
 ##### <p align="center">  FNOBERZ OFFICIAL / JOIN DISCORD [CLOUD PROJECT](https://discord.gg/JUwFCGHbV4)
+    
+    
     
