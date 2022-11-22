@@ -16,7 +16,7 @@
    
 ***   
 
-###### 00 - Remove Blaotware (Remove bloatware which is unnecessary for Windows 10)
+###### 00 - Remove Blaotware (Remove bloatware which is unnecessary for Windows 10) 
 ###### 01 - Regedit (Adjust NTFS / Dev Error / Fix Mouse / Others)
 ###### 02 - Reset Winsock (It is necessary sometimes when you are unable to access certain websites)
 ###### 03 - Disable Game (Disable GameBarPresenceWriter) 
