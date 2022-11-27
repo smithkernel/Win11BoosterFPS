@@ -14,7 +14,7 @@
  - I see credit to all file owners. If you think your credit has been stolen More can be contacted here.
    
    
-***   
+***    
 
 ###### 00 - Remove Blaotware (Remove bloatware which is unnecessary for Windows 10) 
 ###### 01 - Regedit (Adjust NTFS / Dev Error / Fix Mouse / Others)
