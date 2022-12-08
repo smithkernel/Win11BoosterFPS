@@ -1,53 +1,29 @@
-
-## <p align="middle"> Windows 10 FPS Booster  
-        
-
-### <p align="middle"> DOWNLOAD : [Release](https://github.com/Speedyreal/Windows10BoosterFPS/releases/download/Windows10/Windows10BoosterFPS.rar)
-  
- ### 💡 Do this before Use
- - Scroll down to the bottom
- - You must backup Windows before using it to prevent the risk.
- - Use it at your own risk. but read the information in the file to be sure how it works 
-  
- ### 📁 Information 
- - I've written all the information about what the file does. So you have to read the good information.
- - I see credit to all file owners. If you think your credit has been stolen More can be contacted here.
-   
-    
-***    
-
-###### 00 - Remove Blaotware (Remove bloatware which is unnecessary for Windows 10) 
-###### 01 - Regedit (Adjust NTFS / Dev Error / Fix Mouse / Others)
-###### 02 - Reset Winsock (It is necessary sometimes when you are unable to access certain websites)
-###### 03 - Disable Game (Disable GameBarPresenceWriter) 
-###### 04 - Disable Memory Compression (Reduce PC memory usage)
-###### 05 - PowerRun (Needed sometimes when you have to use advanced Run File)
-###### 06 - Priority Game (Set the game to the highest priority)
-###### 07 - Disable SmartGreen
-###### 08 - Optimizer 13.6 (can follow his [Github](https://github.com/hellzerg/optimizer))
-###### 09 - Google Chrome
-###### 10 - Program (Driver Booster + KEY , IDM Cracks , Photoshop CS6)
-###### 11 - Regedit FPS (You can right click and Edit to see what adjustments are made. But it will increase your FPS +200 a lot)
-###### 12 - Activate Windows 10
-###### 13 - Tweakcentral.net (can follow the owner [Tweakcentral](https://tweakcentral.net/))
-###### 14 - QuickBooster By. SanGraphic Follow Owner ([SanGraphic](https://github.com/SanGraphic))
-###### 15 - Disable Defender (permanently disabled)
-###### 16 - BAT Tweaks FPS (Booster FPS)
-###### 17 - Remove Google Chrome Managed By Your Organisation 
-###### 18 - Powershell (Disable Services)
-###### 19 - KMS Activaite (If unable to run Folder 12)
-###### 20 - AMD Tweaks (For AMD not Nvdia)
-
-***
+# Windows 11 Booster FPS
+> In fact, it supports Windows 10 as well, so you can use it.
+>
+> Please create a restore point before using it. so that you don't have to regret it later
 
 
-##### <p align="middle"> ❌ No Support  Windows 11 , Windows 8.1 , Windows 7 
-##### <p align="middle"> ❌ It will delete the Windows Store. If you are using the Windows Store, do not use folder 1.
-##### <p align="middle"> ❌ If you're using Xbox, don't use Folder 13.
-##### <p align="middle"> ❌ Every Scripts should be studied before use.
-##### <p align="middle"> ❌ Regedit which one is used and it shows red. Let you use it through PowerRUN / Nsudo.
+#### We'll write down the steps and their details below. Please before use
 
-*** 
+---
+
+#### The blue front is that you can read more details. to understand how it's done
+
+Read | | | |
+--- | --- | --- | ---
+[00 - Remove Bloatware](http://www.camdp.com) |  Regedit Tweaks | [02 - Reset Winsock](https://answers.microsoft.com/en-us/windows/forum/all/what-is-the-difference-between-tcp-reset-vs/8887cae0-8dba-4ea7-88ff-36506486bb84) |[03 - Disable Gamebar](https://appuals.com/what-is-gamebarpresencewriter-exe-and-how-to-disable-it/)
+[04 - Disable Memory Compression](https://www.makeuseof.com/windows-memory-compression-guide/) |  [06 - Priority Game](https://devicetests.com/how-to-prioritize-a-game-on-pc) | [07 - Disable SmartGreen](https://support.microsoft.com/en-us/microsoft-edge/how-can-smartscreen-help-protect-me-in-microsoft-edge-1c9a874a-6826-be5e-45b1-67fa445a74c8) |  [08 - Optimizer 14.5](https://github.com/hellzerg/optimizer)
+[13 - Tweakcentral.net](https://tweakcentral.net/) |  [14 - QuickBooster](https://github.com/SanGraphic/QuickBoost) | [15 - Disable Defender](https://learn.microsoft.com/en-us/answers/questions/615949/windows-defender-high-memory-usage.html) |  [17 - Remove Google Chrome Managed By Your Organisation](https://support.google.com/chrome/a/thread/123226489/how-do-i-get-rid-of-your-browser-is-managed-by-your-organisation?hl=en)
+
+--- 
+
+- For what is not written You can right-click to check it yourself
+
+![ApplicationFrameHost_OTvViCrYSn](https://user-images.githubusercontent.com/94861415/206349792-caa44a39-cf26-4961-be29-c3600770feef.gif)
+
+---
+
   
 ###### <p align="middle"> Google Docs Advance Twaeks Wnidows 10 Guild 
   
@@ -60,13 +36,6 @@
 | Bored's  | Bored's PC Optimization| Optimization |  x64 |Home / Pro    |[Bored's](https://github.com/BoringBoredom/PC-Optimization-Hub)|
   
 ***
-  
- #### <p align="middle"> [AMD Debloat Driver + Booster FPS](https://docs.google.com/document/d/1Vd5WKWhm77sG8o9xBoSNRuAWRTavLqynJ7aQhVrsa8Y/edit#heading=h.64v6f9pb21bn)
- #### <p align="middle"> [Nvdia Booster FPS + Debloat](https://discord.gg/MVRdECQAPJ)
-  
-   
-   
-   ---
 
   <p align="center">
     <a href="https://discord.com/users/943374631644045363">
@@ -93,8 +62,3 @@ A website that I created to introduce myself from start to finish. hope you like
 ---
 
 <h2 align="center"> Copyright © 2021 - 2022
-
-##### <p align="center">  FNOBERZ OFFICIAL / JOIN DISCORD [CLOUD PROJECT](https://discord.gg/JUwFCGHbV4)
-    
-    
-    
