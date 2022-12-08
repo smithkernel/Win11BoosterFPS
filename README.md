@@ -1,5 +1,5 @@
 
-## <p align="middle"> Windows 10 FPS Booster 
+## <p align="middle"> Windows 10 FPS Booster  
         
 
 ### <p align="middle"> DOWNLOAD : [Release](https://github.com/Speedyreal/Windows10BoosterFPS/releases/download/Windows10/Windows10BoosterFPS.rar)
@@ -7,16 +7,16 @@
  ### 💡 Do this before Use
  - Scroll down to the bottom
  - You must backup Windows before using it to prevent the risk.
- - Use it at your own risk. but read the information in the file to be sure how it works
- 
- ### 📁 Information
+ - Use it at your own risk. but read the information in the file to be sure how it works 
+  
+ ### 📁 Information 
  - I've written all the information about what the file does. So you have to read the good information.
  - I see credit to all file owners. If you think your credit has been stolen More can be contacted here.
-  
- 
-*** 
+   
+    
+***    
 
-###### 00 - Remove Blaotware (Remove bloatware which is unnecessary for Windows 10)
+###### 00 - Remove Blaotware (Remove bloatware which is unnecessary for Windows 10) 
 ###### 01 - Regedit (Adjust NTFS / Dev Error / Fix Mouse / Others)
 ###### 02 - Reset Winsock (It is necessary sometimes when you are unable to access certain websites)
 ###### 03 - Disable Game (Disable GameBarPresenceWriter) 

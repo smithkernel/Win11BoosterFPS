@@ -13,5 +13,5 @@ Windows Registry Editor Version 5.00
 "DP_DisableDither"=dword:00000000
 "Embedded_DisableDither"=dword:00000001
 "HDMI_DisableDither"=dword:00000000
-"TMDS_DisableDither"=dword:00000000
+"TMDS_DisableDither"=dword:0000000001
 

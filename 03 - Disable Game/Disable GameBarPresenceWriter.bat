@@ -1,3 +1,5 @@
+// Please download NSudo to run this. If you don't start using this It will cause you to find an error.
+
 @echo off
 CD /D "%~dp0"
 REM Xbox Game Bar calls amebarpresencewrite.exe automatically, this script can disable it once and for all.
@@ -30,7 +32,6 @@ exit
 :start
 REM To re-enable the process, run the script again but change the 0 to 1!
 REM DO NOT use this (it will break too much) tenforums.com/gaming/86858-how-remove-gaming-settings.html
-REG ADD "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\WindowsRuntime\ActivatableClassId\Windows.Gaming.GameBar.PresenceServer.Internal.PresenceWriter" /v "ActivationType" /t REG_DWORD /d 0 /f
 echo.
 echo Press any key to exit . . . 
 pause >nul

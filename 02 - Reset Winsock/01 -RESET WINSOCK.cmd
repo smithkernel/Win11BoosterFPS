@@ -1,8 +1,4 @@
-rem Reset the entire Winsock/firewall
-
-rem Based on:
-rem https://support.microsoft.com/en-us/help/10741/windows-10-fix-network-connection-issues
-
+ 
 rem DOCS
 rem advfirewall - technet.microsoft.com/en-us/library/cc771046(v=ws.10).aspx
 rem arp - technet.microsoft.com/en-us/library/cc940107.aspx
@@ -90,3 +86,7 @@ rem Default entries are 10, 11, 12, 16, 18, 26, 30, 4, 6, 7
 rem To disable restart, type - shutdown /a
 
 pause
+
+exit
+
+// It's up to you whether you want to stop it manually or want to turn it on and off automatically.
