@@ -43,21 +43,33 @@ Read | | | |
     </a>
 </p> 
  
-### 💬 DISCORD  [Clound Official](https://discord.gg/MBTkVcJefp) 
-
-### 📗 Private Project 
-` 🟢 SOURCE CODE , PRIVATE CHEAT , SPOOFER , OTHER JOIN DISCORD 🟢`
-
-- **Additional** questions For the Product [Information](https://github.com/Cloud-Official/Product) / [Join Discord](https://discord.gg/MBTkVcJefp) 
-- **Legit and Undetectable** because we update it all the time.
+### 💬 ・HELP & SUPPORT | [Discord](https://discord.gg/MBTkVcJefp) 
 
 
-### 🛑 Warranty Product
+ ### 🛒〢 `PRIVATE CHEAT`
+ More Here [Information](https://github.com/Club-CC/Detail)
+ 
+<table>
+<tr>
+	<td> PRIVATE CHEAT
+	<td> SPOOFER
+	<td> SOURCE CODE
+</table>
 
-- **Support** 24\7 + Update free lifetime
-- **If banned = Refund + Spoofer free**
+  
+### 🎯 〢 Product Cheat
 
-A website that I created to introduce myself from start to finish. hope you like it [Fnoberz.com](https://fnoberz.com/)
+- Lifetime + Update Free
+- Custom Feature if you want `(Example: Aimbot + Esp + Skin Changers)`
+- Undetected and can be played on the main account.
+
+
+### 💯〢 Warranty Product.
+
+- Support 24 Hr + Update Free
+- IF Banned = REFUND
+
+A website that I created to introduce myself from start to finish. hope you like it [Slackes.me](http://slackes.me/)
 
 ---
 
