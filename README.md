@@ -4,7 +4,7 @@
 > Please create a restore point before using it. so that you don't have to regret it later
 
 
-#### We'll write down the steps and their details below. Please before use
+#### We'll write down the steps and their details below. Please before use  
 
 ---
 
