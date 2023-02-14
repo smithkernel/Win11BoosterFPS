@@ -17,7 +17,7 @@ Read | | | |
 [13 - Tweakcentral.net](https://tweakcentral.net/) |  [14 - QuickBooster](https://github.com/SanGraphic/QuickBoost) | [15 - Disable Defender](https://learn.microsoft.com/en-us/answers/questions/615949/windows-defender-high-memory-usage.html) |  [17 - Remove Google Chrome Managed By Your Organisation](https://support.google.com/chrome/a/thread/123226489/how-do-i-get-rid-of-your-browser-is-managed-by-your-organisation?hl=en)
 
 --- 
-
+ 
 - For what is not written You can right-click to check it yourself
 
 ![ApplicationFrameHost_OTvViCrYSn](https://user-images.githubusercontent.com/94861415/206349792-caa44a39-cf26-4961-be29-c3600770feef.gif)
