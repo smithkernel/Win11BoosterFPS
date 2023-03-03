@@ -10,7 +10,7 @@
 
 #### The blue front is that you can read more details. to understand how it's done
 
-Read | | | |
+Read | | | | 
 --- | --- | --- | ---
 [00 - Remove Bloatware](http://www.camdp.com) |  Regedit Tweaks | [02 - Reset Winsock](https://answers.microsoft.com/en-us/windows/forum/all/what-is-the-difference-between-tcp-reset-vs/8887cae0-8dba-4ea7-88ff-36506486bb84) |[03 - Disable Gamebar](https://appuals.com/what-is-gamebarpresencewriter-exe-and-how-to-disable-it/)
 [04 - Disable Memory Compression](https://www.makeuseof.com/windows-memory-compression-guide/) |  [06 - Priority Game](https://devicetests.com/how-to-prioritize-a-game-on-pc) | [07 - Disable SmartGreen](https://support.microsoft.com/en-us/microsoft-edge/how-can-smartscreen-help-protect-me-in-microsoft-edge-1c9a874a-6826-be5e-45b1-67fa445a74c8) |  [08 - Optimizer 14.5](https://github.com/hellzerg/optimizer)
@@ -45,7 +45,7 @@ Read | | | |
     </a>
 </p> 
  
-## 💬 ・[Discord](https://discord.gg/2euDQqzD8Y) | MAIN SERVER
+## 💬 ・[Discord Server](https://discord.gg/2euDQqzD8Y) 
 `CLICK BLUE BUTTON FOR JOIN SERVER.`
 
  ### 🛒〢 `SHOP`
