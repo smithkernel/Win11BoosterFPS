@@ -45,34 +45,38 @@ Read | | | |
     </a>
 </p> 
  
-## 💬 ・[Discord Server](https://discord.gg/2euDQqzD8Y) 
-`CLICK BLUE BUTTON FOR JOIN SERVER.`
+## 💬 ・[Discord](https://discord.gg/2euDQqzD8Y)
+
+`BLUE BUTTON FOR JOIN SERVER`
 
  ### 🛒〢 `SHOP`
  
 <table>
 <tr>
 	<td> PRIVATE CHEAT
-	<td> SPOOFER
+	<td> PRIVATE SPOOFER
 	<td> SOURCE CODE
 </table>
 
   
-### 🥊 〢 Private Cheat
+### 🎈 〢 Private Cheat
 
-- Lifetime 
-- Free Updates 
-- Undetected
-- Custom Feature if you want `(Example: Aimbot + Esp + Skin Changers)`
+- Lifetime & Free updated
+- Undetected / Legit
+- **Custom Feature if you want `(Example: Aimbot + Esp + Skin Changers + More)`**
 
-### 🔱〢 Warranty
+### 🩹 〢 Warranty
 
-- Support 24 Hr
-- Update Free
-- If banned = `REFUND`
+- **Support 24/7 & Free updated** 
+- **Banned = `FULL REFUND`**
 
-A website that I created to introduce myself from start to finish. hope you like it [Serups.me](http://Serups.me/)
+#### Website | Resume [Serups.me](http://Serups.me/)
 
 ---
 
-<h2 align="center"> Copyright © 2021 - 2022
+  <br>
+
+<p align="center">
+  Copyright © 2023 All rights reserved
+<br>
+
