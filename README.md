@@ -40,17 +40,17 @@ Read | | | |
 --- 
 
   <p align="center">
-    <a href="https://discord.com/users/1031783571905581137">
-        <img title="Serups" alt="Serups's discord" src="https://discord.c99.nl/widget/theme-4/1031783571905581137.png"/>
+    <a href="https://t.me/Serups">
+        <img title="Serups" alt="Serups's Telegram" src="https://cdn.discordapp.com/attachments/1087352666180554852/1087366848124825742/Serups_1_1.png"/>
     </a>
 </p>
  
 ## 💬 ・[Telegram](https://t.me/Serups)
 
-`BLUE BOTTON FOR BUY PRODUCT`
+- Buy in Telegram for privacy | Discord private customer 
+- About [Private Cheat information](https://github.com/API-Connects/Detail)
 
-- Buy in Telegram for Privacy | Discord Private for Customer ONLY ! 
-- About Product [Private Cheat information](https://github.com/API-Connects/Detail)
+
 
  ### 🛒〢 `PRODUCT`
  
@@ -62,7 +62,7 @@ Read | | | |
 </table>
 
   
-### 🎈 〢 Private Cheat
+### 🥊 〢 Private Cheat
 
 - Lifetime 
 - Undetected / Legit
